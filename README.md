@@ -10,8 +10,10 @@ Además tengo experiencia con C# y Vue.Js. Trabajé con frameworks de CSS como T
 
 Pueden ver mis certificaciones acá: [Certificaciones](https://drive.google.com/drive/folders/1dlpXlUNT8Tu9iwicQyHZU45X1CtEA0EJ?usp=drive_link).
 
+- [Proyecto Desarrollo Web](https://irinag00.github.io/PF-DesarrolloWeb-Gorlino/)
 - [Proyecto React.Js](https://proyecto-final-ecommerce-gorlino.vercel.app/)
 - [Proyecto Vue.Js](https://cripto-gorlino.vercel.app/)
+- [Proyecto React-Native](https://github.com/irinag00/DecoHome-app-Gorlino.git)
 
 ## Aprendizaje Continuo🌱
 
