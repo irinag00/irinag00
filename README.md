@@ -6,7 +6,8 @@ Me encanta el front, tanto mobile como web. Soy apasionada por la tecnología y 
 
 Tengo certificación en Desarrollo Web, JavaScript, React.Js y React-Native (mis proyectos finales están disponibles en los repositorios).
 Además tengo experiencia con C# y Vue.Js. Trabajé con frameworks de CSS como Tailwind y Bootstrap.
-Finalicé mi primer proyecto real, junto con un grupo de desarrolladores y de diseñadores UX/UI, de una empresa contable. Este proyecto lo realicé gracias a los beneficios de Coderhouse, debido a mis notas sobresalientes.
+Mi proyecto final para la carrera de Téc. Univ. en Programación constó del desarrollo de una página web empresarial con un frontend y un backend, la misma cuenta con una panel admistrador y secciones autoadministables.
+Proyecto en CoderHouse: Junto con un grupo de desarrolladores y de diseñadores UX/UI, desarrollamos una lading page para una una empresa contable llamada "Equilibra Contable". Este proyecto lo realicé gracias a los beneficios de Coderhouse, debido a mis notas sobresalientes.
 
 Pueden ver mis certificaciones acá: [Certificaciones](https://drive.google.com/drive/folders/1dlpXlUNT8Tu9iwicQyHZU45X1CtEA0EJ?usp=drive_link).
 
