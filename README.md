@@ -1,8 +1,7 @@
 # Sobre mí
 
-##  Hola, mi nombre es Irina Gorlino 👋 Soy Desarrolladora Frontend
-Me encanta el front, tanto mobile como web. Soy apasionada por la tecnología y disfruto mucho estar aprendiendo constantemente. Actualmente soy estudiante de la Tecnicatura Universitaria en Programación (UTN) y finalicé la carrera de Desarrollo de Aplicaciones en CoderHouse. 
-
+##  Hola, mi nombre es Irina Gorlino 👋 Soy Desarrolladora Frontend y Técnica Universitaria en Programación.
+Me encanta el front, tanto mobile como web. Soy apasionada por la tecnología y disfruto mucho estar aprendiendo constantemente.
 ## Habilidades 🚀
 
 Tengo certificación en Desarrollo Web, JavaScript, React.Js y React-Native (mis proyectos finales están disponibles en los repositorios).
