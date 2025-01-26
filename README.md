@@ -12,6 +12,7 @@ Proyecto en CoderHouse: Junto con un grupo de desarrolladores y de diseñadores 
 Pueden ver mis certificaciones acá: [Certificaciones](https://drive.google.com/drive/folders/1dlpXlUNT8Tu9iwicQyHZU45X1CtEA0EJ?usp=drive_link).
 
 - [Proyecto Práctica Profesional (Tec. Univ. en Programación)](https://www.sol-sport.com.ar/)
+- [Proyecto Página web de Coach Ontológica](https://web-sole-delta.vercel.app/#)
 - [Proyecto Equilibra Contable/Proyecto Real](https://www.equilibracontable.com/)
 - [Proyecto Desarrollo Web](https://irinag00.github.io/PF-DesarrolloWeb-Gorlino/)
 - [Proyecto React.Js](https://proyecto-final-ecommerce-gorlino.vercel.app/)
